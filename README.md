@@ -50,12 +50,12 @@ This means .NET and C# are installed and our computer recognizes the dotnet comm
 
 
 ## Run Tests
-Open Terminal, navigate into the "Bakery.Tests/" folder in the command line
+Open Terminal, navigate into the "ToDoList.Tests/" folder in the command line
 Run the following command $"dotnet restore" to retrieve and install the packages we listed in .csproj in our application.
 Then run the following command: $ dotnet test.
 
 ## Stretch goals
-- unity driven UI
+- functional desktop UI 
 
 
 
